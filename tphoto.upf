@@ -1,4 +1,5 @@
 [Terra preferences]
+MissionFile=E:\Work\Work\MKZHD\Photo\MLS_MKZhD2_UTM37N.mis
 Application=TerraPhoto
 ViewImageZoom=2
 CacheImageCount=128
@@ -442,4 +443,3 @@ CitAppendSel=0
 CitSurfType=0
 DccPageStep=10
 StatePlaneActive=0
-MissionFile=E:\Work\Work\MKZHD\Photo\MLS_MKZhD2_UTM37N.mis

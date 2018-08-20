@@ -1,4 +1,8 @@
 [Terra preferences]
+MacroFile=D:\Work\00-Macros\01_For_Rail\Out_for_rail.mac
+MacroOutputFile=E:\Work\Work\MKZHD\_Vypravka\Rails\15\For_Rail\#block.las
+ProjectFile=E:\Work\Work\MKZHD\_Vypravka\Las_shpera\15_6\15_6.prj
+PointClassFile=E:\Work\Work\MKZHD\_Vypravka\ptc.ptc
 Application=TerraScan
 PrtUse=0
 PrtPort=1
@@ -335,7 +339,6 @@ OpenMainToolbox=1
 CloseAccuDraw=1
 MaximumThreads=4
 DataInputFile=e:\work\work\mkzhd\_vypravka\rails\15\for_rail\pt000001.las
-PointClassFile=E:\Work\Work\MKZHD\_Vypravka\ptc.ptc
 MainWindowSize=0
 PointHiliteColor=3
 PointHiliteWeight=2

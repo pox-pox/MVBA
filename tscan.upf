@@ -1,5 +1,4 @@
 [Terra preferences]
-PointClassFile=E:\Work\Work\test\TN\50\_doc\tscan_2017_vsto.ptc
 Application=TerraScan
 PrtUse=0
 PrtPort=1
@@ -336,6 +335,7 @@ OpenMainToolbox=1
 CloseAccuDraw=1
 MaximumThreads=4
 DataInputFile=
+PointClassFile=
 MainWindowSize=0
 PointHiliteColor=3
 PointHiliteWeight=2
@@ -540,4 +540,3 @@ TrjSmoothenAfter=1.000
 SlaveLicenseNotified=0
 SlvComputerNames=
 StatePlaneActive=0
-ProjectFile=E:\Work\Work\test\TN\51\_doc\UTM51_ALL.prj
